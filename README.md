@@ -1,7 +1,7 @@
 #Hallo, ich bin John 
 
 ### 💻Über mich
-- Technikbegeistert, sturkturiert und motoviert 
+- Technikbegeistert, strukturiert und motiviert 
 - Ich bilde mich bereits selbstständig im Bereich Programmierung weiter
 - Aktuell lerne ich python und arbeite an eigenen Projekten 
 
